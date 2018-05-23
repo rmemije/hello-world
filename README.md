@@ -1,2 +1,3 @@
 # hello-world
-My first project
+My first project using ruby on rails
+Perfect!!!
